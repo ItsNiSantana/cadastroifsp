@@ -23,7 +23,7 @@
     <h1>Consulta de Clientes</h1>
     <br>
     <a href="index.html"><button type="button" class="btn btn-outline-primary">Menu</button></a>
-    <a href="cadastrocliente.html"><button type="button" class="btn btn-outline-primary">Cadastrar novo cliente</button></a>
+    <a href="cadastrocliente.php"><button type="button" class="btn btn-outline-primary">Cadastrar novo cliente</button></a>
     <table align="center" border="1" width="50%" style="background-image: url('../img/gatoo.jfif')">
         <tr>
             <th>Código</th>
